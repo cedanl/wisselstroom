@@ -4,7 +4,7 @@ pkgdown_sha: ~
 articles:
   technicaldetails: technicaldetails.html
   wisselstroom: wisselstroom.html
-last_built: 2025-07-14T12:40Z
+last_built: 2025-07-14T12:46Z
 urls:
   reference: https://cedanl.github.io/wisselstroom/reference
   article: https://cedanl.github.io/wisselstroom/articles
