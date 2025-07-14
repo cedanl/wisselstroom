@@ -1,10 +1,10 @@
 pandoc: 3.1.11
-pkgdown: 2.1.1
+pkgdown: 2.1.3
 pkgdown_sha: ~
 articles:
   technicaldetails: technicaldetails.html
   wisselstroom: wisselstroom.html
-last_built: 2024-12-27T17:17Z
+last_built: 2025-07-14T12:34Z
 urls:
   reference: https://cedanl.github.io/wisselstroom/reference
   article: https://cedanl.github.io/wisselstroom/articles
