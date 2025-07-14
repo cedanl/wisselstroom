@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![R-CMD-check](https://github.com/ed2c/wisselstroom/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ed2c/wisselstroom/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 Each Higher Educational Institute (HEI) in the Netherlands can request its institute-specific files named "Bekostigingsbestanden". The functions in this package extract information from these files related to switching and continuing studies. It facilitates the HEIs gain insight in the prevalence of switching and/or continuing studies. Flows can be visualised by a Sankey diagram.
