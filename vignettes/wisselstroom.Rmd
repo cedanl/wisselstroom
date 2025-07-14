@@ -108,7 +108,7 @@ Seeing from the last academic year, an enrolment can be:
 
 Install the package `wisselstroom` when not installed yet, and load it:
 ```{r}
-# devtools::install_github("ed2c/wisselstroom"), if not done before
+# devtools::install_github("cedanl/wisselstroom"), if not done before
 library(wisselstroom)
 ```
 

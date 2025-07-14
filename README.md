@@ -23,13 +23,13 @@ You can install the development version of wisselstroom from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("ed2c/wisselstroom")
+devtools::install_github("cedanl/wisselstroom")
 ```
 
 If you want to have the vignettes as well:
 
 ``` r
-devtools::install_github("ed2c/wisselstroom", dependencies = TRUE, build_vignettes = TRUE)
+devtools::install_github("cedanl/wisselstroom", dependencies = TRUE, build_vignettes = TRUE)
 ```
 
 ## Example
